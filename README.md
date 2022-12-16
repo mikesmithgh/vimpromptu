@@ -32,3 +32,17 @@ https://en.wikipedia.org/wiki/The_Treachery_of_Images
 |			To screen column [count] in the current line.
 			|exclusive| motion.  Ceci n'est pas une pipe.
 ```
+
+## Vim
+- neovim as man pager > `export MANPAGER='nvim +Man!'
+`
+
+## Vim Videos
+- https://youtu.be/w7i4amO_zaE Primeagen neovim setup
+
+## Vim Plugins for days
+- https://github.com/VonHeikemen/lsp-zero.nvim all the goodies from lsp bundled up
+- https://github.com/mbbill/undotree undo history visualizer
+- https://github.com/ThePrimeagen/harpoon act like you don't know
+  ![Harpoon](https://raw.githubusercontent.com/ThePrimeagen/harpoon/master/harpoon.png)
+
