@@ -23,3 +23,12 @@ I'm not sure what exactly this is going to turn into to. But, the plan is to sta
  - arrow keys
  - tab
  - enter
+
+## Vim Easter Eggs
+- :h |
+https://en.wikipedia.org/wiki/The_Treachery_of_Images
+```
+							*bar*
+|			To screen column [count] in the current line.
+			|exclusive| motion.  Ceci n'est pas une pipe.
+```
