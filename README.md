@@ -11,7 +11,7 @@ I'm not sure what exactly this is going to turn into to. But, the plan is to sta
 - https://github.com/ogham/exa > a modern replacement for ls.
 - https://github.com/FineFindus/artem > ascii art cli
 - https://github.com/twpayne/chezmoi > dotfiles management
-
+- https://github.com/atanunq/viu cli image viewer
 ## Vim keymap ideas / alt leaders
 - esc in normal mode https://www.reddit.com/r/neovim/comments/zmu22y/uses_for_escape_in_normal_mode/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 - normal mode:
