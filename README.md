@@ -220,7 +220,7 @@ n@@@@@@@#########################+                                              
 
 ## Vim Videos
 - https://youtu.be/w7i4amO_zaE Primeagen neovim setup
-
+- https://youtu.be/stqUbv-5u2s Telescope Johnson kickstart ide
 ## Vim Plugins for days
 - https://github.com/VonHeikemen/lsp-zero.nvim all the goodies from lsp bundled up
 - https://github.com/mbbill/undotree undo history visualizer
