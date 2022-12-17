@@ -230,3 +230,5 @@ n@@@@@@@#########################+                                              
 - https://github.com/adelarsq/vim-matchit `// included by default in nvim`
 - https://github.com/tpope/vim-fugitive
 - https://github.com/NvChad/NvChad
+- https://github.com/bennypowers/nvim-regexplainer
+- https://github.com/ellisonleao/nvim-plugin-template plugin template
