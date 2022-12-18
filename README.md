@@ -232,3 +232,4 @@ n@@@@@@@#########################+                                              
 - https://github.com/NvChad/NvChad
 - https://github.com/bennypowers/nvim-regexplainer
 - https://github.com/ellisonleao/nvim-plugin-template plugin template
+- https://github.com/rcarriga/nvim-notify fancy notifications
