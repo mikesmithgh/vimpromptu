@@ -217,6 +217,7 @@ n@@@@@@@#########################+                                              
 ## Vim
 - neovim as man pager > `export MANPAGER='nvim +Man!'
 `
+- https://github.com/nanotee/nvim-lua-guide nvim lua guude
 
 ## Vim Videos
 - https://youtu.be/w7i4amO_zaE Primeagen neovim setup
