@@ -12,6 +12,12 @@ I'm not sure what exactly this is going to turn into to. But, the plan is to sta
 - https://github.com/FineFindus/artem > ascii art cli
 - https://github.com/twpayne/chezmoi > dotfiles management
 - https://github.com/atanunq/viu cli image viewer
+- https://github.com/microsoft/java-debug - Java Debug Server for Visual Studio Code
+- https://github.com/dgileadi/vscode-java-decompiler - Decompiler for Java™ in Visual Studio Code
+- https://github.com/microsoft/vscode-java-test - Test Runner for Java
+- https://github.com/testforstephen/vscode-pde - Eclipse PDE support for VS Code
+- https://github.com/jesseduffield/lazygit - A simple terminal UI for git commands, written in Go with the gocui library.
+
 ## Vim keymap ideas / alt leaders
 - esc in normal mode https://www.reddit.com/r/neovim/comments/zmu22y/uses_for_escape_in_normal_mode/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 - normal mode:
@@ -232,3 +238,16 @@ n@@@@@@@#########################+                                              
 - https://github.com/NvChad/NvChad
 - https://github.com/bennypowers/nvim-regexplainer
 - https://github.com/ellisonleao/nvim-plugin-template plugin template
+- https://github.com/mfussenegger/nvim-jdtls - java lsp
+- https://github.com/mfussenegger/nvim-dap - Neovim DAP (Debug Adapter Protocol)
+- https://github.com/lotabout/skim - fuzzy finder
+
+## Vim Colorschemes
+- https://vimcolorschemes.com/
+- https://github.com/Lokaltog/vim-distinguished - My first favorite 
+- https://github.com/morhetz/gruvbox
+- https://github.com/ellisonleao/gruvbox.nvim - My current jam
+- https://github.com/folke/tokyonight.nvim
+- https://github.com/rose-pine/neovim
+- https://github.com/sainnhe/everforest
+- https://github.com/rebelot/kanagawa.nvim
