@@ -223,10 +223,11 @@ n@@@@@@@#########################+                                              
 ## Vim
 - neovim as man pager > `export MANPAGER='nvim +Man!'
 `
+- https://github.com/nanotee/nvim-lua-guide nvim lua guude
 
 ## Vim Videos
 - https://youtu.be/w7i4amO_zaE Primeagen neovim setup
-
+- https://youtu.be/stqUbv-5u2s Telescope Johnson kickstart ide
 ## Vim Plugins for days
 - https://github.com/VonHeikemen/lsp-zero.nvim all the goodies from lsp bundled up
 - https://github.com/mbbill/undotree undo history visualizer
@@ -238,6 +239,7 @@ n@@@@@@@#########################+                                              
 - https://github.com/NvChad/NvChad
 - https://github.com/bennypowers/nvim-regexplainer
 - https://github.com/ellisonleao/nvim-plugin-template plugin template
+- https://github.com/rcarriga/nvim-notify fancy notifications
 - https://github.com/mfussenegger/nvim-jdtls - java lsp
 - https://github.com/mfussenegger/nvim-dap - Neovim DAP (Debug Adapter Protocol)
 - https://github.com/lotabout/skim - fuzzy finder
