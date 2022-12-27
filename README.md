@@ -17,6 +17,7 @@ I'm not sure what exactly this is going to turn into to. But, the plan is to sta
 - https://github.com/microsoft/vscode-java-test - Test Runner for Java
 - https://github.com/testforstephen/vscode-pde - Eclipse PDE support for VS Code
 - https://github.com/jesseduffield/lazygit - A simple terminal UI for git commands, written in Go with the gocui library.
+- https://asciinema.org/ - Screen record cli
 
 ## Vim keymap ideas / alt leaders
 - esc in normal mode https://www.reddit.com/r/neovim/comments/zmu22y/uses_for_escape_in_normal_mode/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
