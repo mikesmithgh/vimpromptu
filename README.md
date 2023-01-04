@@ -18,6 +18,8 @@ I'm not sure what exactly this is going to turn into to. But, the plan is to sta
 - https://github.com/testforstephen/vscode-pde - Eclipse PDE support for VS Code
 - https://github.com/jesseduffield/lazygit - A simple terminal UI for git commands, written in Go with the gocui library.
 - https://asciinema.org/ - Screen record cli
+- https://yadm.io/ - yet another dotfiles manager
+- https://github.com/hpjansson/chafa - conver images to ansi (gifs)
 
 ## Vim keymap ideas / alt leaders
 - esc in normal mode https://www.reddit.com/r/neovim/comments/zmu22y/uses_for_escape_in_normal_mode/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
@@ -244,6 +246,8 @@ n@@@@@@@#########################+                                              
 - https://github.com/mfussenegger/nvim-jdtls - java lsp
 - https://github.com/mfussenegger/nvim-dap - Neovim DAP (Debug Adapter Protocol)
 - https://github.com/lotabout/skim - fuzzy finder
+- https://github.com/karb94/neoscroll.nvim - keep on scrolling baby
+
 
 ## Vim Colorschemes
 - https://vimcolorschemes.com/
@@ -254,3 +258,9 @@ n@@@@@@@#########################+                                              
 - https://github.com/rose-pine/neovim
 - https://github.com/sainnhe/everforest
 - https://github.com/rebelot/kanagawa.nvim
+- https://github.com/savq/melange
+
+## Vim Testing
+- https://github.com/Vimjas/vim-testbed Because unit testing a Vim plugin is a pain in the ass.
+- https://github.com/junegunn/vader.vim I use Vader to test Vimscript.
+
