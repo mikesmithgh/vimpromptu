@@ -247,6 +247,8 @@ n@@@@@@@#########################+                                              
 - https://github.com/mfussenegger/nvim-dap - Neovim DAP (Debug Adapter Protocol)
 - https://github.com/lotabout/skim - fuzzy finder
 - https://github.com/karb94/neoscroll.nvim - keep on scrolling baby
+- https://github.com/edluffy/hologram.nvim - image plugin that integrates with kitty protocol
+- https://github.com/johngrib/vim-game-code-break
 
 
 ## Vim Colorschemes
