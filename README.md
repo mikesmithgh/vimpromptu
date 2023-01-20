@@ -223,6 +223,17 @@ n@@@@@@@#########################+                                              
 `      `.:.`.,:iii;;;;;;;;iii;;;:`       `.``                                                        `nW
 ```
 
+- `:Ni!` 
+```
+Do you demand a shrubbery?
+```
+
+- `:help holy-grail` or `:help smile`
+```
+You found it, Arthur!				*holy-grail* *:smile*
+```
+
+
 ## Vim
 - neovim as man pager > `export MANPAGER='nvim +Man!'
 `
