@@ -233,6 +233,11 @@ Do you demand a shrubbery?
 You found it, Arthur!				*holy-grail* *:smile*
 ```
 
+- ':help nunmap'
+```
+:nunmap can also be used outside of a monastery.
+```
+
 
 ## Vim
 - neovim as man pager > `export MANPAGER='nvim +Man!'
@@ -276,4 +281,22 @@ You found it, Arthur!				*holy-grail* *:smile*
 ## Vim Testing
 - https://github.com/Vimjas/vim-testbed Because unit testing a Vim plugin is a pain in the ass.
 - https://github.com/junegunn/vader.vim I use Vader to test Vimscript.
+
+
+## font stuff
+Download https://github.com/tonsky/FiraCode/releases to ~/Library/fonts
+unzip
+kitty conf:
+symbol_map U+21,U+2b,U+2d,U+2f,U+3c,U+3d,U+3e,U+5c Fira Code Regular
+
+Download https://github.com/source-foundry/Hack/releases/tag/v3.003 to ~/Library/fonts
+unzip
+kitty conf
+
+## random
+- http://metaphorpsum.com/
+
+
+## TODO
+- https://github.com/chomosuke/term-edit.nvim
 
