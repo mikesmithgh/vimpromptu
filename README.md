@@ -1,3 +1,4 @@
+
 # vimpromptu
 
 I'm not sure what exactly this is going to turn into to. But, the plan is to start documenting dev things. Probably vim and cli focused.
@@ -238,7 +239,8 @@ You found it, Arthur!				*holy-grail* *:smile*
 :nunmap can also be used outside of a monastery.
 ```
 
-
+- https://www.vim.org/images/vimassistant.gif
+![ClippyVim](https://www.vim.org/images/vimassistant.gif)
 ## Vim
 - neovim as man pager > `export MANPAGER='nvim +Man!'
 `
