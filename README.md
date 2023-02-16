@@ -302,4 +302,5 @@ kitty conf
 ## TODO
 - https://github.com/chomosuke/term-edit.nvim
 - https://github.com/knubie/vim-kitty-navigator
+- https://github.com/sharkdp/vivid
 
