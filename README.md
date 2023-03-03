@@ -520,6 +520,16 @@ In summary:
 
 ```
 
+- `:help!`
+```
+E478: Don't panic!
+```
+
+- `:hi!`
+```
+Greetings, Vim user!
+```
+
 ## Vim
 - neovim as man pager > `export MANPAGER='nvim +Man!'
 `
