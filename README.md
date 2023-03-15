@@ -596,3 +596,4 @@ kitty conf
 - https://github.com/anuvyklack/hydra.nvim
 - https://github.com/lukas-reineke/headlines.nvim
 - https://github.com/danymat/neogen
+- https://github.com/p-gen/smenu
