@@ -597,3 +597,5 @@ kitty conf
 - https://github.com/lukas-reineke/headlines.nvim
 - https://github.com/danymat/neogen
 - https://github.com/p-gen/smenu
+- https://github.com/MordechaiHadad/bob
+
